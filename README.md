@@ -33,8 +33,8 @@ End the program.
 </br> 
 
 ## Program:
-### Developed By   :A.Anbuselvam
-### Register Number:212222240009
+### Developed By   :S.SRIRAM
+### Register Number:212222240105
 </br>
 
 ### 1. Smoothing Filters
